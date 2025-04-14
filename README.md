@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Mayank kumar
-- 👀 I’m interested in web development and  doing DSA .
-- 🌱 I’m currently learning web development and doing dsa stuff.
-- 💞️ I’m looking to collaborate on projects of web-d and react.
-- 📫 How to reach me at insta @mayank_x_rajput
-- 😄 Pronouns: ...
+# 👋 Hi, I'm Mayank Kumar
 
-<!---
-mayankgit22/mayankgit22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 Passionate about **Web Development** and learning technologies like **Node.js**, **Express.js**, and **MongoDB**
+- 🌱 Currently building full-stack applications using **React.js**, **Node.js**, **Express.js**, and **MongoDB**
+- 🤝 Looking to collaborate on **full-stack** or **React-based** development projects
+- 📈 Actively improving my skills in **Data Structures & Algorithms (DSA)**
+- 📬 Reach me on Instagram: [@mayank_x_rajput](https://www.instagram.com/mayank_x_rajput)
+
+---
+
+> 🚀 “Code. Learn. Build. Repeat.”  
